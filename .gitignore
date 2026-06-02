@@ -1,2 +1,8 @@
+#ignore secure folder
 secure
+
+#ignore guilty_pleasures.md
 guilty_pleasures.md
+
+#ignore html for advert.md
+advert.html
